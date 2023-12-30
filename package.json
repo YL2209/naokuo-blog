@@ -1,6 +1,6 @@
 {
   "name": "naokuo-blog",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "静态资源仓库",
   "main": "index.js",
   "scripts": {
